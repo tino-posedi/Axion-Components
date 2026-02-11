@@ -9,6 +9,7 @@ All components follow a consistent flat design language, giving them a clean and
 | Component        | Description |
 |------------------|-------------|
 | **ChannelPlot**      | Customizable multichannel realtime plotting widget, featuring buffered time window visualization, peak/average overlays, and light/dark theme support. |
+| **DataGrid**      | Lightweight widget with per cell editing, persistent highlights, filtering, duplicate marking, and automatic column/row rendering using a custom canvas based table engine |
 | **Expander**      | Lightweight collapsible expander panel with a gradient header, hover effects, and one click toggle to show/hide embedded content. |
 | **FlatButton**      | Modern flat button with optional gradients, soft shadow, and smooth hover/press animations via color/offset blending. |
 | **ProgressBar**      | Flexible progress bar supporting segmented or smooth fill modes, horizontal/vertical orientations, and optional gradient styling. |
