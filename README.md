@@ -41,6 +41,22 @@ All components follow a consistent flat design language, giving them a clean and
 <img width="977" height="26" alt="image" src="https://github.com/user-attachments/assets/1a8f32f4-2a3c-47d2-9325-f336eb7e5b5f" />
 <img width="978" height="159" alt="image" src="https://github.com/user-attachments/assets/b4d75634-ffe4-4eb4-a78d-6cf1deedc0d5" />
 
+### SimpleToolbar
+<img width="820" height="55" alt="image" src="https://github.com/user-attachments/assets/0e1f17d8-a91b-4cc7-9b9b-e5c4fddd1b61" />
+
+### StateButton
+<img width="193" height="113" alt="image" src="https://github.com/user-attachments/assets/d52221b4-6e91-4fdd-a471-9c9aaf17b3c2" />
+
+### StatChart
+<img width="425" height="240" alt="image" src="https://github.com/user-attachments/assets/59552fa1-2d4d-4923-bb63-2fc74843edae" />
+
+### StatusPanel
+<img width="224" height="121" alt="image" src="https://github.com/user-attachments/assets/526d06ca-ad32-49c6-81e4-e1c2654e0c4b" />
+
+### TabbedNotebook
+<img width="432" height="293" alt="tabbednotebook-Photoroom" src="https://github.com/user-attachments/assets/4b4612a6-8876-46a8-a9c5-ed96251142a4" />
+
+
 
 
 
